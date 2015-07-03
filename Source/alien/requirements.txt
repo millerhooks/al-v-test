@@ -1,0 +1,15 @@
+django==1.8.2
+pillow
+fabric
+psycopg2
+django-mptt
+django-impersonate
+oauth2client
+pygeocoder
+pytz
+#libxml2
+django-autofixture
+djangorestframework
+markdown
+django-filter
+django_compressor
