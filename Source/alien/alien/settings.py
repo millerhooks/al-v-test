@@ -43,7 +43,8 @@ INSTALLED_APPS = (
 
     'api',
     'rest_framework',
-    'autofixture'
+    'autofixture',
+    'requests'
 )
 
 MIDDLEWARE_CLASSES = (

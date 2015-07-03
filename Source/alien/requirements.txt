@@ -6,6 +6,7 @@ django-mptt
 django-impersonate
 oauth2client
 pygeocoder
+requests
 pytz
 #libxml2
 django-autofixture
